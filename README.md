@@ -47,10 +47,10 @@ npm install
 ->Enable Firebase Authentication and Cloud Firestore.
 
 
-5. Start the app using Expo:
+4. Start the app using Expo:
    
    npx expo start
 
-7. Run on your device:
+5. Run on your device:
    
 ->Scan the QR code displayed in the terminal or browser using the Expo Go app (available on iOS and Android).
